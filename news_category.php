@@ -21,7 +21,7 @@
                                    <div class="col-xl-12">
                                        <ol>
                                              <li>
-                                                   ประกาศ XXXX 
+                                                  <a href="new.php" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
                                                    <div class="d-flex font_size_all">
                                                        <div class="me-2">
                                                              <i class="fas fa-calendar"></i>
@@ -39,7 +39,7 @@
                                                    <hr>
                                              </li>
                                              <li>
-                                                  ประกาศ XXXX 
+                                                  <a href="new.php" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
                                                    <div class="d-flex font_size_all">
                                                        <div class="me-2">
                                                              <i class="fas fa-calendar"></i>
@@ -57,7 +57,7 @@
                                                    <hr>
                                              </li>
                                              <li>
-                                                   ประกาศ XXXX 
+                                                       <a href="new.php" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
                                                        <div class="d-flex font_size_all">
                                                             <div class="me-2">
                                                                  <i class="fas fa-calendar"></i>
@@ -75,7 +75,7 @@
                                                    <hr>
                                              </li>
                                              <li>     
-                                                       ประกาศ XXXX 
+                                                       <a href="new.php" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
                                                        <div class="d-flex font_size_all">
                                                             <div class="me-2">
                                                                  <i class="fas fa-calendar"></i>
@@ -93,7 +93,7 @@
                                                        <hr>
                                              </li>
                                              <li>     
-                                                   ประกาศ XXXX 
+                                                       <a href="new.php" class="headlines" target="_blank">ประกาศ XXXX </a><p></p>  
                                                        <div class="d-flex font_size_all">
                                                             <div class="me-2">
                                                                  <i class="fas fa-calendar"></i>
