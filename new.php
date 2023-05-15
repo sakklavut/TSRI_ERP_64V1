@@ -15,7 +15,7 @@
      </div>
      <div class="row">
           <div class="col-xl-6">
-               <img src="image/new_cover.webp" class="img-fluid" alt="">
+               <img src="image/new_cover.png" class="img-fluid" alt="">
                <div class="row mt-2">
                     <div class="col-xl-12">
                          <div class="owl-carousel owl-theme" id="cover_new">
