@@ -125,10 +125,10 @@
                          <div class="col-xl-4 col-md-4">
                               <img src="image/cover_1.jpg" class="img-fluid" alt="">
                          </div>
-                         <div class="col-xl-8 col-md-8">
+                         <div class="col-xl-4 col-md-4">
                              <div class="row">
                                    <div class="col-xl-12">
-                                        <h5>ข่าวรับสมัครงาน</h5>
+                                        <h5>ข่าวรับสมัครงานภายใน</h5>
                                    </div>
                              </div>
                              <div class="row">
@@ -208,6 +208,109 @@
                                              </li>
                                              <li>     
                                              <a href="application_form.php" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
+                                                       <div class="d-flex font_size_all">
+                                                            <div class="me-2">
+                                                                 <i class="fas fa-calendar"></i>
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 09/03/2566
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 <i class="fas fa-eye"></i>
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 28 ยอดเข้าชม
+                                                            </div>
+                                                       </div>
+                                                       <hr>
+                                             </li>
+                                       </ol>
+                                   </div>
+                             </div>
+                         </div>
+                         <div class="col-xl-4 col-md-4">
+                             <div class="row">
+                                   <div class="col-xl-12">
+                                        <h5>ข่าวรับสมัครงานภายนอก</h5>
+                                   </div>
+                             </div>
+                             <div class="row">
+                                   <div class="col-xl-12">
+                                       <ol>
+                                             <li>
+                                                   <a href="http://203.151.166.132/TSRI_ERP/TSRI_HR/index/" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
+                                                   <div class="d-flex font_size_all">
+                                                       <div class="me-2">
+                                                             <i class="fas fa-calendar"></i>
+                                                       </div>
+                                                       <div class="me-2">
+                                                              09/03/2566
+                                                       </div>
+                                                       <div class="me-2">
+                                                            <i class="fas fa-eye"></i>
+                                                       </div>
+                                                       <div class="me-2">
+                                                            28 ยอดเข้าชม
+                                                       </div>
+                                                   </div>
+                                                   <hr>
+                                             </li>
+                                             <li>
+                                                   <a href="http://203.151.166.132/TSRI_ERP/TSRI_HR/index/" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
+                                                   <div class="d-flex font_size_all">
+                                                       <div class="me-2">
+                                                             <i class="fas fa-calendar"></i>
+                                                       </div>
+                                                       <div class="me-2">
+                                                              09/03/2566
+                                                       </div>
+                                                       <div class="me-2">
+                                                            <i class="fas fa-eye"></i>
+                                                       </div>
+                                                       <div class="me-2">
+                                                            28 ยอดเข้าชม
+                                                       </div>
+                                                   </div>
+                                                   <hr>
+                                             </li>
+                                             <li>
+                                                       <a href="http://203.151.166.132/TSRI_ERP/TSRI_HR/index/" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
+                                                       <div class="d-flex font_size_all">
+                                                            <div class="me-2">
+                                                                 <i class="fas fa-calendar"></i>
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 09/03/2566
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 <i class="fas fa-eye"></i>
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 28 ยอดเข้าชม
+                                                            </div>
+                                                       </div>
+                                                   <hr>
+                                             </li>
+                                             <li>     
+                                                  <a href="http://203.151.166.132/TSRI_ERP/TSRI_HR/index/" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
+                                                          <div class="d-flex font_size_all">
+                                                            <div class="me-2">
+                                                                 <i class="fas fa-calendar"></i>
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 09/03/2566
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 <i class="fas fa-eye"></i>
+                                                            </div>
+                                                            <div class="me-2">
+                                                                 28 ยอดเข้าชม
+                                                            </div>
+                                                       </div>
+                                                       <hr>
+                                             </li>
+                                             <li>     
+                                             <a href="http://203.151.166.132/TSRI_ERP/TSRI_HR/index/" class="headlines" target="_blank">ประกาศ XXXX </a><p></p> 
                                                        <div class="d-flex font_size_all">
                                                             <div class="me-2">
                                                                  <i class="fas fa-calendar"></i>

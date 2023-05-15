@@ -262,7 +262,7 @@
      <div class="row">
           <div class="col-xl-3 col-sm-3">
                <div class="shadow-sm p-3 mb-5 bg-white rounded">
-                    <a href="http://203.151.166.132/TSRI_ERP/TSRI_HR/index/" target="_blank" title="Portal สมัครงาน ">
+                    <a href="https://hrms.tsri.or.th/portaljob/app_card.php" target="_blank" title="Portal สมัครงาน ">
                          <div class="row">
                               <div class="col-xl-12 text-center">
                                    <img src="icon/icon18.png" class="rounded-circle"    alt="Portal สมัครงาน ">
@@ -283,35 +283,19 @@
           <div class="col-xl-12 text-center">
                <h4 class="text_service">ระบบคลังพัสดุ</h4>
           </div>
-     </div>
+     </div> 
      <div class="row">
                <div class="col-xl-3 col-sm-3">
                     <div class="shadow-sm p-3 mb-5 bg-white rounded">
-                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบบริหารทรัพยากรบุคคล">
+                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบทรัพย์สิน">
                               <div class="row">
                                    <div class="col-xl-12 text-center">
-                                        <img src="icon/icon14.png" class="rounded-circle"    alt="ระบบบริหารทรัพยากรบุคคล">
+                                        <img src="icon/icon19.png" class="rounded-circle"    alt="ระบบทรัพย์สิน">
                                    </div>
                               </div>
                               <div class="row">
                                    <div class="col-xl-12 text-center">
-                                        <p class="p_link">ระบบบริหารทรัพยากรบุคคล</p> 
-                                   </div>
-                              </div>
-                         </a>
-                    </div>
-               </div>
-               <div class="col-xl-3 col-sm-3">
-                    <div class="shadow-sm p-3 mb-5 bg-white rounded">
-                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบพัฒนาบุคคล">
-                              <div class="row">
-                                   <div class="col-xl-12 text-center">
-                                        <img src="icon/icon15.png" class="rounded-circle"    alt="ระบบพัฒนาบุคคล">
-                                   </div>
-                              </div>
-                              <div class="row">
-                                   <div class="col-xl-12 text-center">
-                                        <p class="p_link">ระบบพัฒนาบุคคล</p> 
+                                        <p class="p_link">ระบบทรัพย์สิน</p> 
                                    </div>
                               </div>
                          </a>
@@ -319,15 +303,15 @@
                </div>
                <div class="col-xl-3 col-sm-3">
                     <div class="shadow-sm p-3 mb-5 bg-white rounded">
-                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบสวัสดิการ">
+                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบจัดซื้อจัดจ้าง">
                               <div class="row">
                                    <div class="col-xl-12 text-center">
-                                        <img src="icon/icon16.png" class="rounded-circle" alt="ระบบสวัสดิการ">
+                                        <img src="icon/icon20.png" class="rounded-circle"    alt="ระบบจัดซื้อจัดจ้าง">
                                    </div>
                               </div>
                               <div class="row">
                                    <div class="col-xl-12 text-center">
-                                        <p class="p_link">ระบบสวัสดิการ</p> 
+                                        <p class="p_link">ระบบจัดซื้อจัดจ้าง</p> 
                                    </div>
                               </div>
                          </a>
@@ -335,15 +319,15 @@
                </div>
                <div class="col-xl-3 col-sm-3">
                     <div class="shadow-sm p-3 mb-5 bg-white rounded">
-                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบเงินเดือนค่าจ้าง">
+                         <a href="http://203.151.166.132/TSRI_ERP/TSRI_ASSET/workflow" target="_blank" title="ระบบคลังพัสดุ">
                               <div class="row">
                                    <div class="col-xl-12 text-center">
-                                        <img src="icon/icon17.png" class="rounded-circle" alt="ระบบเงินเดือนค่าจ้าง">
+                                        <img src="icon/icon21.png" class="rounded-circle" alt="ระบบคลังพัสดุ">
                                    </div>
                               </div>
                               <div class="row">
                                    <div class="col-xl-12 text-center">
-                                        <p class="p_link">ระบบเงินเดือนค่าจ้าง</p> 
+                                        <p class="p_link">ระบบคลังพัสดุ</p> 
                                    </div>
                               </div>
                          </a>
