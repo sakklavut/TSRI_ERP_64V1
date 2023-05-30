@@ -18,7 +18,6 @@
 
     <script src="js/jquery-3.6.4.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-
     <link rel="icon" href="image/favicon.png">
     <title>สำนักงานคณะกรรมการส่งเสริมวิทยาศาวตร์ วิจัยและนวัตกรรม (สกสว.)</title>
   </head>
